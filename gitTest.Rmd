@@ -10,3 +10,7 @@ knitr::opts_chunk$set(echo = TRUE)
 ```
 
 # gitのなんか
+本文を書いていきましょうね．
+
+# 更新されるのかしら
+ねえ．
