@@ -1,0 +1,12 @@
+---
+title: "Untitled"
+author: "ierayo"
+date: "2019年4月11日"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# gitのなんか
