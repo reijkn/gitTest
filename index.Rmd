@@ -2,6 +2,8 @@
 title: "Untitled"
 author: "ierayo"
 date: "2019年4月11日"
+documentclass: book
+link-citations: yes
 ---
 
 ```{r setup, include=FALSE}
