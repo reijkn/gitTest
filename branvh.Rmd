@@ -1,0 +1,15 @@
+---
+title: "parameta fitting"
+author: "ierayo"
+date: "2019/10/19"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# はじめに
+そろそろ，パラメータだけを変更するみたいなアレが増えてくる．
+そういう時に，なんか新しいコミットというかそれは不便そうである．
+つまりブランチでどうにかしよう，と考える．
